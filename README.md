@@ -1,7 +1,3 @@
-Aqui está uma versão **mais limpa e profissional do README, sem emojis**:
-
----
-
 # Conversor de Moedas em Java
 
 Um projeto simples desenvolvido em **Java** que realiza conversões entre diferentes moedas utilizando uma **API de taxas de câmbio em tempo real**.
