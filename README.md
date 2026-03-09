@@ -105,16 +105,3 @@ Depois basta digitar o valor que deseja converter.
 # API Utilizada
 
 Este projeto utiliza uma API de taxas de câmbio para obter valores atualizados das moedas em tempo real.
-
----
-
-# Melhorias Futuras
-
-Algumas melhorias que podem ser implementadas:
-
-* Interface gráfica
-* Interface web
-* Mais opções de moedas
-* Histórico de conversões
-* Deploy do projeto online
-
